@@ -1,0 +1,772 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "open_ads_wortise":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.ad.tesiqkepribadia&hl=en"
+
+    }
+  ],
+  "Categories": [
+  {
+    "name_category": "wallpaper",
+    "wallpaper_url": "https://i.pinimg.com/564x/19/2e/cb/192ecb5596c34fa1b948ba7e5c06f9b5.jpg"
+  }
+],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/23/6b/c1/236bc19e0a9139597d276cef2cdbc04a.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/c/ce/Nikki_Starsea_Card_1.jpg/revision/latest?cb=20220807134156"
+    },
+    {
+      "id": 3,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/02/eb/f8/02ebf80723976ea54ff22772053273dc.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/93/e9/6d/93e96d61db68569a1311d4eae2f0f8fc.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d2/71/75/d2717599e687a8690b03dcf9e1744230.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/5/57/LotFS_Fresh_Wind_and_Dreams.png/revision/latest/scale-to-width-down/1000?cb=20230716180715"
+    },
+    {
+      "id": 7,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/9/9a/Nikki_SN_Cool_Card.jpg/revision/latest?cb=20220807125036"
+    },
+    {
+      "id": 8,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/0/09/Nikki_SN_Art_1.jpg/revision/latest/scale-to-width-down/1000?cb=20220807124828"
+    },
+    {
+      "id": 9,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/c/cf/SN_Nikki_Sword.jpg/revision/latest/scale-to-width-down/1000?cb=20200726010115"
+    },
+    {
+      "id": 10,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/5/55/Nikki_-_SN_Chapter_11.jpg/revision/latest/scale-to-width-down/1000?cb=20200610004626"
+    },
+    {
+      "id": 11,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/b/b3/SN_Nikki_Dark_Angel_Suit.jpg/revision/latest/scale-to-width-down/1000?cb=20200812113038"
+    },
+    {
+      "id": 12,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/5/5f/Nikki_and_Duoduotian.png/revision/latest/scale-to-width-down/1000?cb=20210108010757"
+    },
+    {
+      "id": 13,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/9/97/Nikki_CCS_Collab.jpg/revision/latest/scale-to-width-down/1000?cb=20200812115803"
+    },
+    {
+      "id": 14,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/5/53/Spring_Waltz_SN.jpg/revision/latest/scale-to-width-down/1000?cb=20221207102215"
+    },
+    {
+      "id": 15,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/0/01/Nikki_Mirror.jpg/revision/latest/scale-to-width-down/1000?cb=20220807131836"
+    },
+    {
+      "id": 16,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/2/2c/Nikki_vs_Goddess_of_Desire.jpg/revision/latest/scale-to-width-down/1000?cb=20200812114509"
+    },
+    {
+      "id": 17,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/4/49/Nikki_SN_Cool_Card_2.jpg/revision/latest?cb=20200725111637"
+    },
+    {
+      "id": 18,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/2/28/Shining_Nikki_Summer_2019_1.png/revision/latest?cb=20220807125503"
+    },
+    {
+      "id": 19,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/2/27/Shining_Nikki_Idol_2.jpg/revision/latest/scale-to-width-down/1000?cb=20200812134713"
+    },
+    {
+      "id": 20,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/4/44/Shining_Nikki_Flowers_1.jpg/revision/latest?cb=20200725111858"
+    },
+    {
+      "id": 21,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/f/f0/Shining_Nikki_Flowers_2.jpg/revision/latest/scale-to-width-down/1000?cb=20200813123048"
+    },
+    {
+      "id": 22,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/e/e5/Shining_Nikki_Birthday_2019_1.jpg/revision/latest/scale-to-width-down/1000?cb=20200725112334"
+    },
+    {
+      "id": 23,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/4/4e/Shining_Nikki_Birthday_2019_2.jpg/revision/latest/scale-to-width-down/1000?cb=20200813032855"
+    },
+    {
+      "id": 24,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/a/ab/Nikki_Castle_1.jpg/revision/latest/scale-to-width-down/1000?cb=20200812224242"
+    },
+    {
+      "id": 25,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/a/a7/Nikki_Castle_2.jpg/revision/latest/scale-to-width-down/1000?cb=20200812224306"
+    },
+    {
+      "id": 26,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/1/19/Nikki_Starsea_Card_2.jpg/revision/latest/scale-to-width-down/1000?cb=20200625034213"
+    },
+    {
+      "id": 27,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/3/3c/Nikki_Halloween_Card_1.jpg/revision/latest?cb=20220807134749"
+    },
+    {
+      "id": 28,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/6/60/Nikki_Halloween_Card_2.jpg/revision/latest?cb=20220807135007"
+    },
+    {
+      "id": 29,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/a/ae/SN_Nikki_bday_2020_1.png/revision/latest?cb=20220807130030"
+    },
+    {
+      "id": 30,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/5/5b/SN_Nikki_bday_2020_2.png/revision/latest?cb=20220807130131"
+    },
+    {
+      "id": 31,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/4/4c/Nikki3.jpeg/revision/latest?cb=20180214142213"
+    },
+    {
+      "id": 32,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/4/4e/LN_Background_Winter.png/revision/latest?cb=20181214025238"
+    },
+    {
+      "id": 33,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/a/a6/Title_Screen.png/revision/latest?cb=20190222000121"
+    },
+    {
+      "id": 34,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/7/71/Anniversary.png/revision/latest?cb=20190204233308"
+    },
+    {
+      "id": 35,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/c/c4/New_Year.png/revision/latest?cb=20190205125859"
+    },
+    {
+      "id": 36,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/9/9d/Memory_Tides_-_Nikki.jpg/revision/latest/scale-to-width-down/1000?cb=20200813112310"
+    },
+    {
+      "id": 37,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/c/cc/ROR_Nikki.jpg/revision/latest?cb=20200628195156"
+    },
+    {
+      "id": 38,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/3/33/Nikki_Momo_Christmas_Artwork.jpg/revision/latest/scale-to-width-down/1000?cb=20201218011501"
+    },
+    {
+      "id": 39,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/5/50/Nikki_2021_February_Artwork.jpg/revision/latest/scale-to-width-down/1000?cb=20220204162637"
+    },
+    {
+      "id": 40,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/7/7c/WoT_Nikki.jpg/revision/latest/scale-to-width-down/1000?cb=20220218174534"
+    },
+    {
+      "id": 41,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/1/15/CiL_Luster_of_Snow.jpg/revision/latest/scale-to-width-down/1000?cb=20220812005054"
+    },
+    {
+      "id": 42,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/b/b4/Nikki_2022_anniversary_artwork.png/revision/latest/scale-to-width-down/1000?cb=20221128154201"
+    },
+    {
+      "id": 43,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/f/f0/BNW_Nikki_in_Deep_Sea.png/revision/latest/scale-to-width-down/1000?cb=20191227205602"
+    },
+    {
+      "id": 44,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/6/65/BNW_Kimi_and_Nikki.png/revision/latest/scale-to-width-down/1000?cb=20190627224213"
+    },
+    {
+      "id": 45,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/c/c5/BNW_Ace_and_Nikki.png/revision/latest/scale-to-width-down/1000?cb=20190627224215"
+    },
+    {
+      "id": 46,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/9/94/BNW_Lunar_and_Nikki.png/revision/latest/scale-to-width-down/1000?cb=20190628002917"
+    },
+    {
+      "id": 47,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/1/1a/BNW_Dark_Bobo_and_Nikki.png/revision/latest/scale-to-width-down/1000?cb=20190627231141"
+    },
+    {
+      "id": 48,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/d/d7/BNW_Dark_Bobo_and_Nikki_Hug.png/revision/latest/scale-to-width-down/1000?cb=20190628222936"
+    },
+    {
+      "id": 49,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/e/e8/BNW_Bobo_and_Nikki_Hug.png/revision/latest/scale-to-width-down/1000?cb=20190628222945"
+    },
+    {
+      "id": 50,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper50",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/6/64/Elle_and_Nikki_-_Nine_Night_Tales.png/revision/latest/scale-to-width-down/1000?cb=20201031201757"
+    },
+    {
+      "id": 51,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper51",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/7/71/Xiao_Zong_Mood_Listening.png/revision/latest/scale-to-width-down/1000?cb=20211104173618"
+    },
+    {
+      "id": 52,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper52",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/2/26/Realm_of_Foam_Sail_the_Ocean.jpg/revision/latest/scale-to-width-down/1000?cb=20220724004841"
+    },
+    {
+      "id": 53,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper53",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/7/7a/Nikki_Art_2020.jpg/revision/latest/scale-to-width-down/1000?cb=20200509185126"
+    },
+    {
+      "id": 54,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper54",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/5/59/Nikki_in_Floral_Movement.png/revision/latest/scale-to-width-down/1000?cb=20191227203033"
+    },
+    {
+      "id": 55,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper55",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/0/0e/N2_Nikki_and_Momo_1.png/revision/latest/scale-to-width-down/1000?cb=20200112190149"
+    },
+    {
+      "id": 56,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper56",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/1/1e/N2_CNY_Nikki.png/revision/latest?cb=20200216021448"
+    },
+    {
+      "id": 57,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper57",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/lovenikki/images/0/01/Shining_Nikki_New_Title_Screen.png/revision/latest?cb=20210108010600"
+    },
+    {
+      "id": 58,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper58",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ed/89/9e/ed899ede3f7f5ca32e903ef96e40342a.jpg"
+    },
+    {
+      "id": 59,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper59",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/fe/72/43/fe724329f33f30198a301ea4928c5971.jpg"
+    },
+    {
+      "id": 60,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper60",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/3a/58/1d/3a581d1acdb57b9da701d733b688dca0.jpg"
+    },
+    {
+      "id": 61,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper61",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/63/1d/eb/631deb46c55f7ee834fe87837b4fd7d7.jpg"
+    },
+    {
+      "id": 62,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper62",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/93/db/3a/93db3a6d8b6952185132c9a50d936140.jpg"
+    },
+    {
+      "id": 63,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper63",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/0c/d2/81/0cd2811f9bcc20d5b65c273ced5afbf5.jpg"
+    },
+    {
+      "id": 64,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper64",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/56/cc/36/56cc36047c3a4bcaf45798988467352c.jpg"
+    },
+    {
+      "id": 65,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper65",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/08/6b/ee/086bee7e23c3478254f6bcec045d82b1.jpg"
+    },
+    {
+      "id": 66,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper66",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/fe/92/b6/fe92b64b38dd8aeead1e674eb65e3927.jpg"
+    },
+    {
+      "id": 67,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper67",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/77/86/19/778619663d20861b1aa7abb07362a13c.jpg"
+    },
+    {
+      "id": 68,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper68",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/bc/32/57/bc3257dd79b8e4b3ed6503f3592ef52b.jpg"
+    },
+    {
+      "id": 69,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper69",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/7f/f0/c3/7ff0c32bc9abaf4e4e728d09c18049d9.jpg"
+    },
+    {
+      "id": 70,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper70",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/dc/21/ba/dc21ba9b36cb3406efc38248eb049f03.jpg"
+    },
+    {
+      "id": 71,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper71",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/67/c3/cd/67c3cd2cc75990efdd22f7488f689b89.jpg"
+    },
+    {
+      "id": 72,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper72",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6b/64/ec/6b64ec3f8055dc81b6a11e20d00134d4.jpg"
+    },
+    {
+      "id": 73,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper73",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/shining-nikki/images/7/79/Nikki_in_Miraland_II_Visual.png/revision/latest/scale-to-width-down/1000?cb=20210521234502"
+    },
+    {
+      "id": 74,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper74",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://static.wikia.nocookie.net/shining-nikki/images/1/1f/Nikki%27s_World_II_Visual.png/revision/latest?cb=20211124081959"
+    },
+    {
+      "id": 75,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper75",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/da/ab/43/daab433d7c87d31139ea461f06a07a4e.jpg"
+    },
+    {
+      "id": 76,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper76",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/df/a2/89/dfa289c101bdd1dfa75814e28cea5b50.jpg"
+    },
+    {
+      "id": 77,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper77",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/da/4c/dd/da4cddd2820c3ef5b0ccca348f1d56ae.jpg"
+    },
+    {
+      "id": 78,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper78",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/bf/a6/c4/bfa6c44cab58341d60f1c9ab4267d55e.jpg"
+    },
+    {
+      "id": 79,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper79",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/9f/3d/2a/9f3d2a2a80df7f004067e4a5f44c111e.jpg"
+    },
+    {
+      "id": 80,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper80",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/0b/31/3c/0b313c8d5e0203f5bd1dc338414560aa.jpg"
+    },
+    {
+      "id": 81,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper81",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d5/da/40/d5da40bfbb29f71c8a4727916af2823b.jpg"
+    },
+    {
+      "id": 82,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper82",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/1c/8d/33/1c8d330b7f3992d8234b095b22a35ba6.jpg"
+    },
+    {
+      "id": 83,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper83",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/01/b0/dd/01b0ddf9e3108ee99e082a6813106abf.jpg"
+    },
+    {
+      "id": 84,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper84",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/2e/cb/a1/2ecba1709e1a210de85b1a795acd4b4c.jpg"
+    },
+    {
+      "id": 85,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper85",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/33/ca/db/33cadb65cd81e6e365bdaebada6083a4.jpg"
+    },
+    {
+      "id": 86,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper86",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/6a/c5/09/6ac509b5eba7c6568acbaa6f3f5cb314.jpg"
+    },
+    {
+      "id": 87,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper87",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/a8/2a/3c/a82a3c732d769c525646b4e7bd13f9aa.jpg"
+    },
+    {
+      "id": 88,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper88",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/0c/5a/db/0c5adb96a71d8b2ad4d4821bc01111be.jpg"
+    },
+    {
+      "id": 89,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper89",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2b/8d/2d/2b8d2d5ecd0594e88fe6a237eeb3a090.jpg"
+    },
+    {
+      "id": 90,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper90",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/da/74/06/da74061efa0a542fb5b47fa9d6617008.jpg"
+    },
+    {
+      "id": 91,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper91",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/f3/16/ad/f316ad6da4608fb732f1c07c51d88532.jpg"
+    },
+    {
+      "id": 92,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper92",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c6/37/4b/c6374b5f7ada16347f6e5478add58f0a.jpg"
+    },
+    {
+      "id": 93,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper93",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/a6/d9/af/a6d9af25c33ec43abcd51680617df9a8.jpg"
+    },
+    {
+      "id": 94,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper94",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/4b/f1/6a/4bf16a59db9acfe7d86795500d133eb5.jpg"
+    },
+    {
+      "id": 95,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper95",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/82/a4/b1/82a4b1577f99105bf1331fd172c36237.jpg"
+    },
+    {
+      "id": 96,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper96",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/f4/43/65/f443659370ff4b28ea0e1d0f3fc66a9c.jpg"
+    },
+    {
+      "id": 97,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper97",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/cd/85/dd/cd85dd0a369662a5df2d0803621ddcfe.jpg"
+    },
+    {
+      "id": 98,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper98",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/21/c9/f6/21c9f66a227244d2b2497c53d0df1f2e.jpg"
+    },
+    {
+      "id": 99,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper99",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/7c/e9/f6/7ce9f6623a46e625d36fe0b2016a8824.jpg"
+    },
+    {
+      "id": 100,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper100",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/e7/c6/56/e7c65630a9a63d5d810cc37fbc0abfd1.jpg"
+    },
+    {
+      "id": 101,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper101",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/f3/64/8d/f3648d5b40ecdde8075e568a0cfbd40c.jpg"
+    },
+    {
+      "id": 102,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper102",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/6d/e9/cb/6de9cbf43c7b6525783f0d5961370e7c.jpg"
+    },
+    {
+      "id": 103,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper103",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/ca/21/cc/ca21cc90a0f8f2bfcfa592aad5a530ff.jpg"
+    },
+    {
+      "id": 104,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper104",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/7b/29/b7/7b29b7e970393083eff0849aa42d750b.jpg"
+    },
+    {
+      "id": 105,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper105",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/7f/6d/a0/7f6da063bbac48397644f649a23f04bc.jpg"
+    }
+  ]
+}
