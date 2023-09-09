@@ -27,12 +27,16 @@
   ],
   "Categories": [
     {
-      "name_category": "Image Wallpaper",
-      "wallpaper_url": "https://i.pinimg.com/564x/c9/3a/74/c93a746a42c541ff98e24c067b6ba2cb.jpg"
+      "name_category": "Nezuko",
+      "wallpaper_url": "https://i.pinimg.com/564x/9a/60/4f/9a604f3f949170a839ba260820aa794d.jpg"
     },
     {
       "name_category": "Image Live Wallpaper",
       "wallpaper_url": "https://i.pinimg.com/564x/59/89/bf/5989bf1ffe8139f001f86e3e70080c14.jpg"
+    },
+    {
+      "name_category": "Image Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/c9/3a/74/c93a746a42c541ff98e24c067b6ba2cb.jpg"
     }
   ],
   "Wallpaper": [
